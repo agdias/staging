@@ -1,0 +1,8 @@
+export const byDate = "Order by date"
+export const byHotness = "Order by hotness"
+export const home = "All Posts"
+export const like = "Like"
+export const dislike = "Dislike"
+export const editPost = "Edit Post"
+export const deletePost = "Delete Post"
+export const comment = "Show Comments"
